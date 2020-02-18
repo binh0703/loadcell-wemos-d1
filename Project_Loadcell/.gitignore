@@ -1,0 +1,13 @@
+.output/
+.vscode/
+bin/upgrade/
+bin/_temp_by_dltool/
+driver/.output/
+zapp/.output/
+zmid/.output/
+zmid/button/.output/
+zmid/flash/.output/
+zmid/net/.output/
+zmid/tmsensor/.output/
+zmid/trace/.output/
+zmid/util/.output/
